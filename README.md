@@ -15,3 +15,5 @@
 # Description:
 
 This repo contains all of the relavant work for the Food Allergies Data Mining Proposal project.
+Childhood Allergies .csv and .xlsx are under the CC0: Public Domain.
+Data was aggregated by Kaggle user The Devastator
