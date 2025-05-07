@@ -7,7 +7,10 @@ import joblib
 #run with command streamlit run demoGBmodel.py
 
 #load our model, Gradient Boosting 
-demoModel = joblib.load('gradBoostModel.pkl')
+demoModelNut = joblib.load('gradBoostModel.pkl')
+
+demoModel = joblib.load('gradBoostModelAllergen.pkl')
+
 
 #title
 slit.title("Demo of Gradient Boost Model trained on NutAlleriges set, derived from Childhood Allergies: Prevalance by TheDevastator")
